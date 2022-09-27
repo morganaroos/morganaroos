@@ -1,6 +1,6 @@
 ### Olá! Sou a Morgana Roos
 
-- 🌱 Hoje estou estudando Java
+- 🌱 Atualmente estou estudando Java
 - 📫 Contate-me no e-mail: morgana.roos@gmail.com
 - 😄 Pronouns: ela/dela
 
